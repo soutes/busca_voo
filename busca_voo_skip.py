@@ -49,9 +49,9 @@ def enviar_email():
             
     #msg = email.message.Message()
     msg['Subject'] = "Voo abaixo de 2k"
-    msg['From'] = 'buscavoopy@gmail.com'
-    msg['To'] = 'soutes@gmail.com'
-    password = 'dokz ikwu xiyh flnl' 
+    msg['From'] = 'aqui vai o email remetente'
+    msg['To'] = 'aqui vai o email destino'
+    password = 'aqui vai a senha' 
     msg.add_header('Content-Type', 'text/html')
     #msg.set_payload(html )
             
