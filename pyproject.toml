@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "busco-voo"
+version = "0.1.0"
+description = ""
+authors = ["Luiz Augusto Soutes <soutes@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pandas = "^2.2.3"
+selenium = "^4.25.0"
+bs4 = "^0.0.2"
+dotenv = "^0.0.5"
+pathlib = "^1.0.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
