@@ -1,5 +1,5 @@
 
-# Projeto Busca de Passagens Aéreas com Python
+# Projeto: Buscador de Passagens Aéreas com Python
 
 Este projeto utiliza **Ciência de Dados**, **Python** e **Web Scraping** para automatizar a busca de passagens aéreas e notificações por e-mail quando os preços caem abaixo de um valor predefinido. Utilizando bibliotecas como `requests`, `BeautifulSoup`, `Selenium`, entre outras, este código facilita a vida de quem quer economizar sem precisar ficar o tempo todo pesquisando manualmente.
 
